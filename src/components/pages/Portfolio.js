@@ -8,7 +8,7 @@ const projects = [
     name: "Gaming APP",
     alt: "",
     description: "",
-    link: "",
+    link: "https://github.com/ThinkK1ng/Gaming-APP-Project",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const projects = [
     name: "The Rolling Scones",
     alt: "",
     description: "",
-    link: "",
+    link: "https://github.com/sergluna/Project-2",
   },
   {
     id: 3,
