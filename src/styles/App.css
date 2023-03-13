@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  body {
+    background-color: sandybrown;
+  }
+  
+  h1 {
+    margin: 32px 0;
+    color: #000;
+    font-size: 24px;
+  }
+  
+  /*Page break sizes*/
+  @media (min-width: 768px) {
+  .container {
+      max-width: 720px;
+  }
+  }
+  
+  @media (min-width: 576px) {
+  .container {
+      max-width: 540px;
+  } 
+  }
