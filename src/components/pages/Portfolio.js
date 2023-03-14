@@ -21,10 +21,10 @@ const projects = [
   {
     id: 3,
     image: "",
-    name: "Team-Profile",
+    name: "Project 3",
     alt: "",
     description: "",
-    link: "https://github.com/CASTICRI003/Team-Profile",
+    link: "",
   },
   {
     id: 4,
