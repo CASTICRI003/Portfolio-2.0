@@ -1,5 +1,5 @@
 import React from "react";
-import PageContainer from "./src/components/PageContainer"
+import PageContainer from "./components/PageContainer"
 import "./styles/App.css"
 
 
