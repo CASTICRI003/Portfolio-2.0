@@ -4,14 +4,7 @@ export default function Resume() {
   return (
     <div id="resume" className='col'>
       <h1>Resume</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+      <a href="https://docs.google.com/document/d/1zDDqYKTntho9YYFO4ulB_AkJn5fBhkMm2waMjx0YSLQ/edit?usp=sharing">My Resume</a>
     </div>
   );
 }
