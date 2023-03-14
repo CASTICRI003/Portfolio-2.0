@@ -6,7 +6,7 @@ export default function Header() {
             <span className=''>
                 <img className="img-fluid" alt="avatar" src="images/bitmoji.png"></img>
             </span>
-            <h1 className='text-center'>Cristian</h1>
+            <h1 className='text-center'>Cristian Castillo</h1>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
