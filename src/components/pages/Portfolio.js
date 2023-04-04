@@ -20,11 +20,11 @@ const projects = [
   },
   {
     id: 3,
-    image: "",
-    name: "Project 3",
+    image: "images/urglogo1.png",
+    name: "Ur Game Reviews",
     alt: "",
     description: "",
-    link: "",
+    link: "https://github.com/rdalby2002/ur-game-reviews",
   },
   {
     id: 4,
